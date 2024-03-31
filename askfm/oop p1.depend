@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711858237 source:c:\users\dell\desktop\oop p1\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
